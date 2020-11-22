@@ -69,6 +69,10 @@ print(str_friends)
 lucky_numbers.sort()
 print(lucky_numbers)
 
+
+# get a length of an array/list:
+len(friends)
+
 # reverse
 friends.reverse()
 print(friends)
