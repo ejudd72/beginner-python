@@ -9,7 +9,7 @@ number_grid = [
 
 print(number_grid[2][1])
 
-# nested for loop
+# nested for loop 
 for row in number_grid:
     for col in row:
         print(col)
