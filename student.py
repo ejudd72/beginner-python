@@ -13,3 +13,8 @@ class Student:
     def name_to_upper(self):
         self.name = self.name.upper()
 
+    def on_honour_roll(self):
+        if self.gpa >= 3.5:
+            return True
+        else:
+            return False
